@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gustavo-Teixeira-13.
-- 👀 I’m interested in: standalone applications, web applications and also website development.
+- 👀 I’m interested in: standalone and web applications.
 - 💻 I already learned the following programming languages: Mips assembly, C, Java, JavaScript, PHP.
-- 🌱 I’m currently learning: Go, React, PostgreSQL.
+- 🌱 I’m currently learning: Go, React, Python.
 - 📬 How to contact me: github.com/Gustavo-Teixeira-13
 
 <!---
